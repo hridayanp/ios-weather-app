@@ -109,5 +109,3 @@ extension WeatherViewController : CLLocationManagerDelegate {
         print(error)
     }
 }
-
-// Openweather = f245186d5c305654d8604b3043358d91
